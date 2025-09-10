@@ -54,3 +54,4 @@ cache_alignment	: 64
 address sizes	: 43 bits physical, 48 bits virtual
 power management:
 
+“Usuario=vagrant”
